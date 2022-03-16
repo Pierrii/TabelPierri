@@ -1,0 +1,70 @@
+body {
+    background-image: url("shutterstock_1583852905-1920x1080.jpeg");
+    font-family: sans-serif;
+}
+
+table {
+    background-color: black
+    
+}
+tr {
+    background-color: rgb(151, 151, 151)
+}
+
+.Maandag {
+    background-color: rgb(150, 150, 150);
+}
+
+.Dinsdag {
+    background-color: rgb(150, 150, 150);
+}
+
+.Woensdag {
+    background-color: rgb(150, 150, 150);
+}
+
+.Donderdag {
+    background-color: rgb(150, 150, 150);
+}
+
+.Vrijdag {
+    background-color: rgb(150, 150, 150);
+}
+
+
+.tabel {
+    margin-left: 250px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
+
+
+  .submit {
+    margin-left: 815px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .button {
+    background-color: #686868; 
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+#textboxid
+{
+    height:50px;
+    font-size:10pt;
+}
+
+.arial { font-family: Arial;}
+.other { font-family: Fantasy;}
